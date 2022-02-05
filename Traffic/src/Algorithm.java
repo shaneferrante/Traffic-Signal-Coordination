@@ -1,6 +1,7 @@
 
 public class Algorithm {
 	
+	//Change added
 	private TrafficLight[][] lights; 	
 	private double[][][] parameters;
 	//0-3: UDLR Target
